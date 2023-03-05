@@ -1,0 +1,1 @@
+Hi there this is an example for finding the word twinkle, twinkle in a string. I hope this helps you. Thanks
